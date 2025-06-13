@@ -30,18 +30,23 @@ You’ll notice those animations throughout — from smooth screen transitions t
 To run the app locally on your iOS or Android device using Expo Go:
 
 1. Clone the repository
-`git clone https://github.com/your-username/To-Do-List-App.git`
 
-`cd To-Do-List-App`
+
+   `git clone https://github.com/your-username/To-Do-List-App.git`
+
+   then use
+
+   `cd To-Do-List-App`
 
 2. Install dependencies
    
-Make sure you have Node.js and Expo CLI installed, then run:
+   Make sure you have Node.js and Expo CLI installed, then run:
 
-`npm install`
+   `npm install`
 
 3. Start the development server
-`npx expo start`
+   
+   `npx expo start`
 
 4. Preview on your device
 - Install the Expo Go app from the App Store or Google Play.
