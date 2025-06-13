@@ -26,4 +26,21 @@ You’ll notice those animations throughout — from smooth screen transitions t
 - A handy progress bar that visually tracks your pending tasks — so you always know how close you are to crushing your to-do list.  
 - Lightweight and fast.
 
-Make every interaction feel polished and rewarding.
+## Getting Started
+To run the app locally on your iOS or Android device using Expo Go:
+
+1. Clone the repository
+`git clone https://github.com/your-username/To-Do-List-App.git`
+`cd To-Do-List-App`
+
+2. Install dependencies
+Make sure you have Node.js and Expo CLI installed, then run:
+`npm install`
+
+3. Start the development server
+`npx expo start`
+
+4. Preview on your device
+- Install the Expo Go app from the App Store or Google Play.
+- Scan the QR code shown in your terminal or browser using Expo Go.
+- The app will launch instantly on your device.
