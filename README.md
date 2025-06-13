@@ -31,10 +31,13 @@ To run the app locally on your iOS or Android device using Expo Go:
 
 1. Clone the repository
 `git clone https://github.com/your-username/To-Do-List-App.git`
+
 `cd To-Do-List-App`
 
 2. Install dependencies
+   
 Make sure you have Node.js and Expo CLI installed, then run:
+
 `npm install`
 
 3. Start the development server
